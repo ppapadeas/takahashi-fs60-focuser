@@ -14,3 +14,5 @@ Stepper Focuser for Takahashi FS60 telescope
 
 ## Instructions
 to-be-added
+
+See also this album for detailed pics https://goo.gl/photos/3qAhtSZK5Ky6i1HQ8
